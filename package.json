@@ -3,8 +3,12 @@
   "version": "0.1.0",
   "private": true,
   "dependencies": {
+    "@deck.gl/core": "^7.2.2",
+    "@deck.gl/mapbox": "^7.2.2",
+    "deck.gl": "^7.2.2",
     "react": "^16.9.0",
     "react-dom": "^16.9.0",
+    "react-map-gl": "^5.0.10",
     "react-scripts": "3.1.1"
   },
   "scripts": {
